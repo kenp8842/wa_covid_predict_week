@@ -8,12 +8,15 @@ and about 200 for King County.
 
 ## Data Sources
 https://www.doh.wa.gov/Emergencies/NovelCoronavirusOutbreak2020COVID19/DataDashboard
+
 https://www.wsha.org/for-patients/coronavirus/coronavirus-tracker/
 
 ## EDA
 
-I looked at the distributions of Washington state and King county COVID-19 cases and fatalities.
+I looked at the distributions of Washington state and King county COVID-19 cases and fatalities. I also created and examined an exponential growth factor to get idea of just how exponential the current spread was.
 
+![](https://github.com/kenp8842/wa_covid_predict_week/blob/master/covid_scatter_plots.png)
+![](https://github.com/kenp8842/wa_covid_predict_week/blob/master/covid_exp_factor.png)
 
 
 ## Model Results
