@@ -6,6 +6,18 @@ predicted.
 The Washington state model performed better than the King county model. The MAE for the week was approximately 230 for Washington state
 and about 200 for King County. 
 
+## Data Sources
+https://www.doh.wa.gov/Emergencies/NovelCoronavirusOutbreak2020COVID19/DataDashboard
+https://www.wsha.org/for-patients/coronavirus/coronavirus-tracker/
+
+## EDA
+
+I looked at the distributions of Washington state and King county COVID-19 cases and fatalities.
+
+
+
+## Model Results
+
 ![](https://github.com/kenp8842/wa_covid_predict_week/blob/master/wa_covid_polynomial_fit.png)
 ![](https://github.com/kenp8842/wa_covid_predict_week/blob/master/wa_covid_results.png)
 ![](https://github.com/kenp8842/wa_covid_predict_week/blob/master/kingco_covid_poly_fit.png)
